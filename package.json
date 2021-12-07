@@ -1,0 +1,20 @@
+{
+  "name": "socketproject",
+  "version": "1.0.0",
+  "description": "project about work with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "Margarita Jarovaja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
